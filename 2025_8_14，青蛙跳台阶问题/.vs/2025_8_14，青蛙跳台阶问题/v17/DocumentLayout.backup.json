@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\my code\\C\\practise\\\u5B66\u4E60\u6848\u4F8B\\\u51FD\u6570\\2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D72847A9-9E42-4F7E-B54B-0E1619A41458}|2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898.vcxproj|D:\\work\\my code\\C\\practise\\\u5B66\u4E60\u6848\u4F8B\\\u51FD\u6570\\2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D72847A9-9E42-4F7E-B54B-0E1619A41458}|2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898.vcxproj|solutionrelative:2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.c",
+              "DocumentMoniker": "D:\\work\\my code\\C\\practise\\\u5B66\u4E60\u6848\u4F8B\\\u51FD\u6570\\2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\\u6E90.c",
+              "RelativeDocumentMoniker": "2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\\u6E90.c",
+              "ToolTip": "D:\\work\\my code\\C\\practise\\\u5B66\u4E60\u6848\u4F8B\\\u51FD\u6570\\2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\\u6E90.c*",
+              "RelativeToolTip": "2025_8_14\uFF0C\u9752\u86D9\u8DF3\u53F0\u9636\u95EE\u9898\\\u6E90.c*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-14T04:12:52.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
