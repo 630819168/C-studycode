@@ -1,0 +1,5 @@
+﻿  game.c
+D:\work\my code\C\practise\三子棋游戏\三子棋游戏\game.c(26,3): warning C4013: “printf”未定义；假设外部返回 int
+D:\work\my code\C\practise\三子棋游戏\三子棋游戏\game.c(60,3): warning C4013: “scanf”未定义；假设外部返回 int
+D:\work\my code\C\practise\三子棋游戏\三子棋游戏\game.c(81,9): warning C4013: “rand”未定义；假设外部返回 int
+  三子棋游戏.vcxproj -> D:\work\my code\C\practise\三子棋游戏\x64\Debug\三子棋游戏.exe
