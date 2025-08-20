@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\my code\\C\\practise\\\u626B\u96F7\u6E38\u620F2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C85C5A80-C6D3-4ECF-9CC6-F7A67E883228}|\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0.vcxproj|D:\\work\\my code\\C\\practise\\\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85C5A80-C6D3-4ECF-9CC6-F7A67E883228}|\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0.vcxproj|solutionrelative:\u626B\u96F7\u6E38\u620F2.0\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85C5A80-C6D3-4ECF-9CC6-F7A67E883228}|\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0.vcxproj|D:\\work\\my code\\C\\practise\\\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85C5A80-C6D3-4ECF-9CC6-F7A67E883228}|\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0.vcxproj|solutionrelative:\u626B\u96F7\u6E38\u620F2.0\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85C5A80-C6D3-4ECF-9CC6-F7A67E883228}|\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0.vcxproj|D:\\work\\my code\\C\\practise\\\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C85C5A80-C6D3-4ECF-9CC6-F7A67E883228}|\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0.vcxproj|solutionrelative:\u626B\u96F7\u6E38\u620F2.0\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\work\\my code\\C\\practise\\\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0\\test.c",
+              "RelativeDocumentMoniker": "\u626B\u96F7\u6E38\u620F2.0\\test.c",
+              "ToolTip": "D:\\work\\my code\\C\\practise\\\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0\\test.c",
+              "RelativeToolTip": "\u626B\u96F7\u6E38\u620F2.0\\test.c",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-20T08:44:45.168Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.c",
+              "DocumentMoniker": "D:\\work\\my code\\C\\practise\\\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0\\game.c",
+              "RelativeDocumentMoniker": "\u626B\u96F7\u6E38\u620F2.0\\game.c",
+              "ToolTip": "D:\\work\\my code\\C\\practise\\\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0\\game.c",
+              "RelativeToolTip": "\u626B\u96F7\u6E38\u620F2.0\\game.c",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAJUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-20T08:45:05.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\work\\my code\\C\\practise\\\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0\\game.h",
+              "RelativeDocumentMoniker": "\u626B\u96F7\u6E38\u620F2.0\\game.h",
+              "ToolTip": "D:\\work\\my code\\C\\practise\\\u626B\u96F7\u6E38\u620F2.0\\\u626B\u96F7\u6E38\u620F2.0\\game.h",
+              "RelativeToolTip": "\u626B\u96F7\u6E38\u620F2.0\\game.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-20T08:44:52.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

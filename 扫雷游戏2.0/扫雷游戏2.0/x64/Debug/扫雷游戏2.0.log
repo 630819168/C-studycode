@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+  正在生成代码...
+D:\work\my code\C\practise\扫雷游戏2.0\扫雷游戏2.0\game.c(97,1): warning C4715: “count_mine”: 不是所有的控件路径都返回值
+  扫雷游戏2.0.vcxproj -> D:\work\my code\C\practise\扫雷游戏2.0\x64\Debug\扫雷游戏2.0.exe
