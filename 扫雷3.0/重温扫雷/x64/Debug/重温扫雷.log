@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+  正在生成代码...
+D:\work\my code\C\test\重温扫雷\重温扫雷\game.c(72,1): warning C4715: “CountMine”: 不是所有的控件路径都返回值
+  重温扫雷.vcxproj -> D:\work\my code\C\test\重温扫雷\x64\Debug\重温扫雷.exe
