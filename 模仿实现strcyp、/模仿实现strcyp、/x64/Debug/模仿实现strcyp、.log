@@ -1,0 +1,4 @@
+﻿  test.c
+D:\work\my code\C\test\模仿实现strcyp、\模仿实现strcyp、\test.c(12,2): warning C4133: “return”: 从“int *”到“char *”的类型不兼容
+D:\work\my code\C\test\模仿实现strcyp、\模仿实现strcyp、\test.c(7,7): warning C4133: “初始化”: 从“char *”到“int *”的类型不兼容
+  模仿实现strcyp、.vcxproj -> D:\work\my code\C\test\模仿实现strcyp、\x64\Debug\模仿实现strcyp、.exe
