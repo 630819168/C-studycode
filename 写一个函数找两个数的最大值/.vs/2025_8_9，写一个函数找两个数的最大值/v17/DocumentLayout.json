@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\my code\\C\\freshman-year-summer-vacation-study-code\\2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E01C7F9D-6497-4D8D-9164-CFFF1FAF56DC}|2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C.vcxproj|D:\\work\\my code\\C\\freshman-year-summer-vacation-study-code\\2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E01C7F9D-6497-4D8D-9164-CFFF1FAF56DC}|2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C.vcxproj|solutionrelative:2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\work\\my code\\C\\freshman-year-summer-vacation-study-code\\2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\\u6E90.cpp",
+              "ToolTip": "D:\\work\\my code\\C\\freshman-year-summer-vacation-study-code\\2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\\u6E90.cpp",
+              "RelativeToolTip": "2025_8_9\uFF0C\u5199\u4E00\u4E2A\u51FD\u6570\u627E\u4E24\u4E2A\u6570\u7684\u6700\u5927\u503C\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-09T15:27:30.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

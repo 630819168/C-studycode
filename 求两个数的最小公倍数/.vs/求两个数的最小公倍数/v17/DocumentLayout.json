@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\my code\\C\\practise\\\u5B66\u4E60\u6848\u4F8B\\\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04661DEB-68FE-45F7-BFBC-087D475F7279}|\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570.vcxproj|D:\\work\\my code\\C\\practise\\\u5B66\u4E60\u6848\u4F8B\\\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04661DEB-68FE-45F7-BFBC-087D475F7279}|\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570.vcxproj|solutionrelative:\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 268,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\work\\my code\\C\\practise\\\u5B66\u4E60\u6848\u4F8B\\\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\test.c",
+              "RelativeDocumentMoniker": "\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\test.c",
+              "ToolTip": "D:\\work\\my code\\C\\practise\\\u5B66\u4E60\u6848\u4F8B\\\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\test.c",
+              "RelativeToolTip": "\u6C42\u4E24\u4E2A\u6570\u7684\u6700\u5C0F\u516C\u500D\u6570\\test.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-07T07:54:30.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
